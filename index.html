@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        />
+        <link rel="stylesheet" href="./style.css" />
+        <title>Meu formulário</title>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Faça seu cadastro e comece a utilizar nossos serviços!</h1>
+
+            <form action="">
+                <div class="itens">
+                    <label for="name">Nome:</label>
+                    <div class="icone-input">
+                        <input
+                            type="text"
+                            id="name"
+                            placeholder="Digite seu nome"
+                            required
+                        />
+                        <i class="fa-solid fa-user"></i>
+                    </div>
+                </div>
+
+                <label for="email">Email:</label>
+                <div class="itens">
+                    <div class="icone-input">
+                        <input
+                            type="email"
+                            id="email"
+                            placeholder="Digite seu email"
+                            required
+                        />
+                        <i class="fa-solid fa-envelope"></i>
+                    </div>
+                </div>
+
+                <div class="itens">
+                    <label for="fone">Telefone:</label>
+                    <div class="icone-input">
+                        <input
+                            type="number"
+                            id="fone"
+                            placeholder="Digite seu contato"
+                            required
+                        />
+                        <i class="fa-solid fa-phone"></i>
+                    </div>
+                </div>
+
+                <div class="itens">
+                    <label for="date">Data de nascimento:</label>
+                    <div class="icone-input">
+                        <input
+                            type="date"
+                            id="date"
+                            placeholder="Digite sua data de nascimento"
+                            required
+                        />
+                        <i class="fa-solid fa-calendar-days"></i>
+                    </div>
+                </div>
+
+                <div class="itens">
+                    <label for="password">Crie uma senha:</label>
+                    <div class="icone-input">
+                        <input
+                            type="password"
+                            id="password"
+                            placeholder="Ex: Mr@123"
+                            required
+                        />
+                        <i class="fa-solid fa-lock"></i>
+                    </div>
+                </div>
+
+                <div class="itens">
+                    <label for="confirm-password">Confirme a Senha:</label>
+                    <div class="icone-input">
+                        <input
+                            type="password"
+                            id="confirm-password"
+                            placeholder="Confirme a senha"
+                            required
+                        />
+                        <i class="fa-solid fa-lock"></i>
+                    </div>
+                </div>
+                <div class="itens radio">
+                    <label for="sexo">Sexo:</label>
+                    <input
+                        type="radio"
+                        name="sexo"
+                        id="radio"
+                        value="Masculino"
+                        required
+                    />Masc.
+                    <input
+                        type="radio"
+                        name="sexo"
+                        id="radio"
+                        value="Feminino"
+                        required
+                    />Fem.
+                    <input
+                        type="radio"
+                        name="sexo"
+                        id="radio"
+                        value="prefiro-nao-dizer"
+                    />Prefiro não dizer
+                </div>
+
+                <div class="tem-conta">
+                    <p>Já tem uma conta? <a href="#">Entrar</a></p>
+                </div>
+                <div class="btn">
+                    <button>Cadastrar</button>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
