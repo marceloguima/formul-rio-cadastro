@@ -9,20 +9,24 @@ HTML5: Estrutura semântica do formulário.
 CSS3: Estilização com foco em design moderno, responsividade e efeitos visuais.
 Font Awesome: Ícones que complementam a experiência do usuário.
 Flexbox: Para criar um layout centralizado e organizado.
+
 📋 Funcionalidades
 Campos de entrada com placeholders e ícones para facilitar o preenchimento.
 Validação básica utilizando os atributos nativos do HTML (como required).
 Botão de cadastro estilizado, com efeito de hover.
 Responsividade: Adaptável para diferentes tamanhos de tela.
 Estilização visual moderna, com sombreamento leve, cores suaves e bordas arredondadas.
+
 🌟 Destaques de Design
 Foco no usuário: O uso de ícones em cada campo simplifica a compreensão.
 Estética profissional: Layout que reflete atenção aos detalhes.
 Uso de imagem de fundo: Um toque visual atrativo e contemporâneo.
+
 👀 Como Visualizar
-Faça o download dos arquivos ou clone este repositório.
-Certifique-se de incluir a biblioteca Font Awesome no projeto para os ícones (ou utilize um link CDN como <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">).
-Abra o arquivo index.html em qualquer navegador.
+📎 Link do Projeto
+Você pode acessar o formulário hospedado clicando no link abaixo:
+Formulário Online
+
 💡 Aprendizados
 Este projeto foi uma oportunidade de aprofundar conhecimentos em estilização avançada com CSS e no uso de práticas de design acessíveis. Ele também demonstra o uso de Flexbox para layouts modernos e centralizados.
 
@@ -30,6 +34,7 @@ Este projeto foi uma oportunidade de aprofundar conhecimentos em estilização a
 Implementação de validação de senha no front-end.
 Adição de responsividade avançada para dispositivos móveis.
 Criação de um backend simples para processar os dados do formulário.
+
 🖋️ Autor
 Marcelo Guimarães
 Apaixonado por design e desenvolvimento front-end, estou em constante evolução para criar interfaces modernas e funcionais. 🚀
