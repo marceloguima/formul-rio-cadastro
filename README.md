@@ -20,16 +20,11 @@ Estilização visual moderna, com sombreamento leve, cores suaves e bordas arred
 👀 Como Visualizar
 📎 Link do Projeto
 Você pode acessar o formulário hospedado clicando no link abaixo:
-
 (https://meu-form.netlify.app)
 
 💡 Aprendizados
 Este projeto foi uma oportunidade de aprofundar conhecimentos em estilização avançada com CSS e no uso de práticas de design acessíveis. Ele também demonstra o uso de Flexbox para layouts modernos e centralizados.
 
-🚀 Possíveis Melhorias
-Implementação de validação de senha no front-end.
-Adição de responsividade avançada para dispositivos móveis.
-Criação de um backend simples para processar os dados do formulário.
 
 🖋️ Autor
 Marcelo Guimarães
