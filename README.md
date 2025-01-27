@@ -17,11 +17,6 @@ Botão de cadastro estilizado, com efeito de hover.
 Responsividade: Adaptável para diferentes tamanhos de tela.
 Estilização visual moderna, com sombreamento leve, cores suaves e bordas arredondadas.
 
-🌟 Destaques de Design
-Foco no usuário: O uso de ícones em cada campo simplifica a compreensão.
-Estética profissional: Layout que reflete atenção aos detalhes.
-Uso de imagem de fundo: Um toque visual atrativo e contemporâneo.
-
 👀 Como Visualizar
 📎 Link do Projeto
 Você pode acessar o formulário hospedado clicando no link abaixo:
