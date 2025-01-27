@@ -25,7 +25,7 @@ Uso de imagem de fundo: Um toque visual atrativo e contemporâneo.
 👀 Como Visualizar
 📎 Link do Projeto
 Você pode acessar o formulário hospedado clicando no link abaixo:
-Formulário Online
+meu-form.netlify.app
 
 💡 Aprendizados
 Este projeto foi uma oportunidade de aprofundar conhecimentos em estilização avançada com CSS e no uso de práticas de design acessíveis. Ele também demonstra o uso de Flexbox para layouts modernos e centralizados.
