@@ -33,5 +33,4 @@ Criação de um backend simples para processar os dados do formulário.
 
 🖋️ Autor
 Marcelo Guimarães
-Apaixonado por design e desenvolvimento front-end, estou em constante evolução para criar interfaces modernas e funcionais. 🚀
-
+Apaixonado por tecnologia, estou me dedicando a aprimorar minhas habilidades em desenvolvimento front-end para criar soluções inovadoras.
