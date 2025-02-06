@@ -77,6 +77,16 @@ input:focus{
     /* background-color: #e3ecf3; */
 }
 
+
+.erro{
+   border: solid 2px #c51616;
+   
+}
+
+.sucesso{
+    border: solid 2px #03d649;
+    
+}
 button:hover{
     background-color: #116bf1;
 }
