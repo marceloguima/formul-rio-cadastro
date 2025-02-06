@@ -35,15 +35,21 @@ form{
     flex-direction: column;
     justify-content: center;
     width: 80%;
-    height: 75%;
+  
     border-radius: 0 0 10px 10px;
     border: solid 4px #46a5fd;
+}
+
+.itens-main{
+    width: 100%;
+   
 }
 
 .itens{
     margin: 5px;
     display: flex;
     flex-direction: column;
+ 
 }
 
 label{
@@ -103,8 +109,10 @@ button:hover{
 a{
     color: #116bf1;
 }
+
 .btn{
     text-align: center;
+    margin-bottom: 8px;
 }
 
 button{
